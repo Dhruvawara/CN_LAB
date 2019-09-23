@@ -1,0 +1,6 @@
+contents inside file
+A
+B
+C
+D
+E
